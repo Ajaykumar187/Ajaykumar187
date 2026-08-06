@@ -178,6 +178,25 @@ Tags: MERN · Python · AI Integration · Cloud · Machine Learning
 
 ---
 
+## Highlights
+
+<div align="center">
+
+| 🏷️ Area | 💡 Highlight |
+|---------|-------------|
+| 🤖 AI Development | Built InterviewAI Pro — a full AI mock interview platform with real-time scoring & feedback |
+| 📈 Machine Learning | Achieved 88% stock prediction accuracy using LSTM + ARIMA on PredictX |
+| 🌐 Full Stack | Shipped 3+ production-grade MERN apps deployed on AWS, Azure & Vercel |
+| ⚡ Performance | Reduced API response time by 20% and improved mobile UX by 30% on SkyWatch |
+| 🎓 Certifications | Certified in Full Stack Dev (GFG), AI (Coursera) & Software Development (Microsoft) |
+| 💻 Competitive Coding | 5-Star HackerRank badges in Python, SQL, C, C++ & Java |
+| 🔭 Currently Learning | DSA · System Design · LLM Fine-tuning · TypeScript · Next.js |
+| 🤝 Open To | SWE Intern · Full Stack Dev · MERN Developer · AI Engineer Intern |
+
+</div>
+
+---
+
 ## Education
 
 <div align="center">

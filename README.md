@@ -227,7 +227,7 @@ Tags: MERN · Python · AI Integration · Cloud · Machine Learning
 ![GitHub Stats](https://github-readme-stats-orcin-xi-45.vercel.app/api?username=Ajaykumar187&show_icons=true&theme=dark&title_color=E8650A&icon_color=F59E42&text_color=FFD9A8&bg_color=0D0A07&border_color=3D1F0A&count_private=true&hide_border=false)
 ![Top Languages](https://github-readme-stats-orcin-xi-45.vercel.app/api/top-langs/?username=Ajaykumar187&layout=compact&theme=dark&title_color=E8650A&text_color=FFD9A8&bg_color=0D0A07&border_color=3D1F0A&langs_count=8)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Ajaykumar187&theme=dark&background=0D0A07&ring=E8650A&fire=F59E42&currStreakLabel=E8650A&sideLabels=FFD9A8&dates=C44B00&border=3D1F0A&currStreakNum=F59E42)
+![GitHub Streak](https://github-readme-streak-stats-ashy-pi.vercel.app/?user=Ajaykumar187&theme=dark&background=0D0A07&ring=E8650A&fire=F59E42&currStreakLabel=E8650A&sideLabels=FFD9A8&dates=C44B00&border=3D1F0A&currStreakNum=F59E42)
 
 </div>
 

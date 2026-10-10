@@ -139,11 +139,11 @@ LOCATION    = "India"
 
 | Attribute | Detail |
 |-----------|--------|
-| Stack | Python, Streamlit, LSTM, ARIMA, Pandas, NumPy, Yahoo Finance API |
-| Features | Charts analysis, Technical indicators, Watchlist, Prices alerts |
-| Impact | 88% prediction accuracy, Real-time data, Interactive dashboards |
+| Stack | React, TypeScript, Express, Angel One SmartAPI |
+| Features | Live charts, indicators, options Greeks, backtesting |
+| Impact | Live NSE/BSE data, Real-time data, Interactive dashboards |
 
-[![View Project](https://img.shields.io/badge/View%20Project-C44B00?style=for-the-badge&logo=streamlit&logoColor=F59E42&labelColor=3D1F0A)](https://ai-predictx.streamlit.app)
+[![View Project](https://img.shields.io/badge/View%20Project-C44B00?style=for-the-badge&logo=streamlit&logoColor=F59E42&labelColor=3D1F0A)](https://predictx-rho.vercel.app)
 
 ---
 
